@@ -49,9 +49,7 @@ ollama-pinecone-chatbot/
 ├── README.md
 ├── .gitignore
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -74,21 +72,18 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 Make sure Ollama is running:
 
-bash
-Copy
-Edit
+
 ollama run llama3.2:1b
 Edit main.py and set your Pinecone API Key and Assistant ID.
 
 📦 Python Dependencies
 Paste this in a file called requirements.txt:
 
-nginx
-Copy
-Edit
+
 fastapi
 uvicorn
 requests
 sentence-transformers
+
 📄 License
 MIT
