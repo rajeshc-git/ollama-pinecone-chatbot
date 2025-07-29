@@ -36,21 +36,6 @@ A lightweight, privacy-respecting chatbot built using:
 - ⚡ FastAPI backend
 - 🖥️ HTML frontend
 - 💬 Real-time streaming response
-
----
-
-## 📁 Folder Structure (suggested)
-
-ollama-pinecone-chatbot/
-├── frontend/ # HTML, JS, CSS files
-│ └── index.html
-├── main.py # FastAPI backend
-├── requirements.txt # Python dependencies
-├── README.md
-├── .gitignore
-
-
-
 ---
 
 ## 🧠 How It Works
