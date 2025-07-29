@@ -23,7 +23,7 @@ This project demonstrates a fully local chatbot with Retrieval-Augmented Generat
 
 ### Backend (FastAPI + Ollama)
 
-```bash
+
 pip install -r requirements.txt
 uvicorn main:app --reload
 
