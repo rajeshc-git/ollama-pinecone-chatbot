@@ -67,7 +67,7 @@ ollama-pinecone-chatbot/
 
 ### Backend (FastAPI + Ollama)
 
-```bash
+
 pip install -r requirements.txt
 uvicorn main:app --reload
 Make sure Ollama is running:
